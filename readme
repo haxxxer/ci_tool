@@ -1,0 +1,21 @@
+1) ci 
+    => copy ip of [eth0: default interface] to clipboard and print it out
+
+
+
+
+2) ci <interface>	-- ex: ci tap0
+ 
+    => copy ip, of the chosen interface, to clipboard and print it out
+
+
+
+
+3) ci <interface> m	-- ex: ci eth0 m
+    
+    => copy mac, of the chosen interface, to clipboard and print it out  
+
+
+
+Enjoy
+Ali ;)
