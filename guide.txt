@@ -25,12 +25,14 @@
 terminal topics to review:
 
 - loops 
-- wget/curl
+- wget/curl (hint: silent curl)
+- echo / tail
 - regex
 - grep 
 - output redirection
 - Pipe
 - command subtitution
+
 
 
 
