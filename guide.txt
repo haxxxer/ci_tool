@@ -32,6 +32,7 @@ terminal topics to review:
 - output redirection
 - Pipe
 - command subtitution
+- special character escapeing
 
 
 
