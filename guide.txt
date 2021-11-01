@@ -1,0 +1,39 @@
+1- at the end of this guide, you will be provided with a link of (junk.txt) which contains multiple flags
+
+
+2- using only bash terminal, try to do the following (in only one command):
+    
+    a- grep the provided link at the end of this file, and retreive its content
+    
+    b- from its content, get the flags that are in the format of: grepme{this.is.the.flag.format}
+        *hint* : case-insensitive matching
+   
+    c- from the output of the previous chained command by far, get only the column that forms a correct english expression
+    
+    d- reconstruct the ouput from: words in multiple line,  to become a sentence in one line (the key)
+
+    e- store the key in a file named: ninja.txt
+
+3- execute another command that adds 'the entire command made for part 2' in the second line of ninja.txt
+
+
+4- send the file to me in private (discord)
+
+
+
+
+terminal topics to review:
+
+- loops 
+- wget/curl
+- regex
+- grep 
+- output redirection
+- Pipe
+- command subtitution
+
+
+
+
+
+https://raw.githubusercontent.com/haxxxer/ci_tool/main/junk.txt
