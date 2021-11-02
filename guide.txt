@@ -4,7 +4,7 @@
 2- using only bash terminal, try to do the following (in only one command):
     
     a- grep the provided link at the end of this file, and retreive its content
-        hint: do not directly "curl https://raw.githubusercontent.com/haxxxer/ci_tool/main/junk.txt" | because this you you copied it manually and no manual work is allowd
+        hint: do not directly "curl https://raw.githubusercontent.com/haxxxer/ci_tool/main/junk.txt" | because this means you copied it manually and no manual work is allowd
     
     b- from its content, get the flags that are in the format of: grepme{this.is.the.flag.format}
         *hint* : case-insensitive matching
