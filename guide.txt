@@ -43,6 +43,7 @@ terminal topics to review:
 ============================ Conditions and hints =========================================
 
 part a:
+do not copy the junk.txt url manually | use command line
 no grep is allowd , use command substitution 
 
 part b:
