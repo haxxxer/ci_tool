@@ -45,6 +45,7 @@ terminal topics to review:
 part a:
 do not copy the junk.txt url manually | use command line
 no grep is allowd , use command substitution 
+XARGS COMMAND IS NOT ALLOWED ANYWARE IN QUESTION 2
 
 part b:
 maximum number of greps is : 2  | use regex with grep maybe?
@@ -63,6 +64,20 @@ check output redirectoin  concept in bash
 Questoin 3:
 you can use any command you want, no strings attached
 
+
+
+
+================================ NINJA FILE TEMPLETE ============================
+y0u ar3 th3 m@$ter
+<the command u used to get the first line>
+
+
+
+
+
+
+
+p.s: dont enter the command in the file manually , use a command to acheive it
 
 
 ======================= Resources ==================================
