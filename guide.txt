@@ -22,7 +22,9 @@
 4- send the file to me in private (discord)
 
 
-note : tr is not allowed
+
+
+================================ Commands you need to know and understand ===========================
 
 terminal topics to review:
 
@@ -38,6 +40,44 @@ terminal topics to review:
 
 
 
+============================ Conditions and hints =========================================
+
+part a:
+no grep is allowd , use command substitution 
+
+part b:
+maximum number of greps is : 2  | use regex with grep maybe?
+best answer is with one grep
+
+part c: 
+use cut
+
+part d:
+tr, sed, awk are not allowd use (one liner loop)   => for i in syntax      => use command substition with it
+
+part e:
+check output redirectoin  concept in bash
+
+
+Questoin 3:
+you can use any command you want, no strings attached
+
+
+
+======================= Resources ==================================
+command substition:
+https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html
+https://www.ibm.com/docs/en/aix/7.2?topic=commands-command-substitution-in-bourne-shell
+https://bash.cyberciti.biz/guide/Command_substitution
+
+
+
+regex:
+https://www.youtube.com/watch?v=rhzKDrUiJVk
+
+
+grep with regex:
+https://www.computernetworkingnotes.com/linux-tutorials/use-extended-regular-expressions-with-grep-command.html
 
 
 
