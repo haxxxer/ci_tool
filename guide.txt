@@ -4,11 +4,13 @@
 2- using only bash terminal, try to do the following (in only one command):
     
     a- grep the provided link at the end of this file, and retreive its content
+        hint: do not directly "curl https://raw.githubusercontent.com/haxxxer/ci_tool/main/junk.txt" | because this you you copied it manually and no manual work is allowd
     
     b- from its content, get the flags that are in the format of: grepme{this.is.the.flag.format}
         *hint* : case-insensitive matching
    
-    c- from the output of the previous chained command by far, get only the column that forms a correct english expression
+    c- you will get x number of flags printed in one line each, from that output get the column that forms a readable english expression
+        hint: consider columns to be seperated by:  .
     
     d- reconstruct the ouput from: words in multiple line,  to become a sentence in one line (the key)
 
@@ -26,7 +28,7 @@ terminal topics to review:
 
 - loops 
 - wget/curl (hint: silent curl)
-- echo / tail
+- echo / tail / cut commands
 - regex
 - grep 
 - output redirection
